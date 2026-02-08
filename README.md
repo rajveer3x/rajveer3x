@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Rajveer 👋
 
-<!--
-**rajveer3x/rajveer3x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a full-stack developer focused on the MERN stack and C++. I like building tools that actually get used, rather than just tutorial clones.
 
-Here are some ideas to get you started:
+- 🛠️ Currently improving my understanding of **system design**
+- 🧠 Regularly practicing **DSA in C++** to strengthen problem-solving
+- 🤖 Integrating AI and LLMs into web apps where it adds real value
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+**Frontend & Backend**  
+`JavaScript` `React.js` `Node.js` `Express` `MongoDB` `Tailwind`
+
+**Programming & Logic**  
+`C++` `Java` `Data Structures & Algorithms`
+
+**Tools**  
+`Git` `Postman` `Vercel` `Firebase`
+
+---
+
+### 📈 What I'm Up To
+- **Building:** Real-world full-stack projects
+- **Learning:** Production-level architecture and scaling Node.js applications
+- **Exploring:** Better ways to integrate AI into products
+
+---
+
+### 🤝 Let’s Connect
+[LinkedIn](https://www.linkedin.com/in/07rajveersingh) 
+
+> *I prefer learning by breaking things and then figuring out why they broke.*
